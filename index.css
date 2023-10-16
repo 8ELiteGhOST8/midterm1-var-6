@@ -1,0 +1,76 @@
+body {
+    background-position: center;
+    background-image: url(card.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.play{
+    display:inline-flex;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.xd {
+    margin:5%;
+    flex-grow:1;
+    height:100%;
+}
+.dsl {
+    margin:5%;
+    flex-grow:1;
+    height:100%;
+}
+h1 {
+    color:#00356B;
+    font-family: swis721 blkcn bt;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+h2 {
+    padding-top:50px;
+    color: #00356BB2;
+    font-family: swis721 blkcn bt;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+h3 {
+    font-family: swis721 blkcn bt;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+h4 {
+    font-family: swis721 blkcn bt;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.text {
+    font-family: swis721 cn bt;
+    font-size: 13px;
+    font-weight: 100;
+    line-height: 13px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.file {
+    background: #cccccc;
+    height:5px;
+    border-radius: 0;
+    box-shadow: 0;
+}
+ul {
+    padding-left:12px;
+}
